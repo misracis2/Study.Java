@@ -1,6 +1,6 @@
 package sec01.exam05;
 
-import com.example.chap08.sec01.exam02.exam04.ReomteControl;
+import sec01.exam02.exam04.ReomteControl;
 
 public class SmartTelevision implements ReomtControl, Searchable{
     private int volume;
