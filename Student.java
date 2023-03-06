@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Student {
+public class Student {
+    int majorCode;
 }
